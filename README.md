@@ -27,6 +27,6 @@ New York is a state in the Northeastern region of the United States. New York is
 1. No credentials/secret should be leaked.
 3. __At least one__ of extra task should be present in the solution, but more is better.
 4. Solution should be presented as a __pull request__ to this repo.
-5. Solution should contain README.md with description (__concise__). Contents of this file could be discarded.
+5. Solution should contain README.md with description (__concise__). Contents of this file may be discarded.
 
 # Good luck!
