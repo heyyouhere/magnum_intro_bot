@@ -19,7 +19,7 @@ New York is a state in the Northeastern region of the United States. New York is
 
 # Extra tasks
 - If article have some images, attach image to bot message.
-- Dynamic menu with options, if there are multiple articles present for a particular search term, that lead to corresponding page.
+- Dynamic menu with options, if there are multiple articles present for a particular search term.
 - If some words in summary are hyperlinks, make them clickable in the message.
 
 
