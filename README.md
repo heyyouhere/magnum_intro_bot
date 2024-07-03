@@ -14,14 +14,14 @@ New York is a state in the Northeastern region of the United States. New York is
 # Requirements
 1. Output message should start with the full name of the article, with a hyperlink attached to it (wikipedia url).
 2. Bot should have a command __/help__ that will send usage information.
-3. Bot should do checks on input and inform user if the input is not text (for example, if user sends audio message, or image).
-4. Bot should handle the case if no article was found gracefully.
+3. Bot should do checks on input and inform user if the input is not a text (for example, if user sends audio message or image).
+4. Bot should handle "no article was found" case gracefully.
 
 # Extra tasks
 - If article have some images, attach image to bot message.
 - Dynamic menu with options, if there are multiple articles present for a particular search term.
 - If some words in summary are hyperlinks, make them clickable in the message.
-- Let user to pick their prefered language, and change it whenever. Article summury should be sent in this language.
+- Let user pick their prefered language, and change it whenever. Article summury should be sent in this language.
 
 
 # Project Requirements
