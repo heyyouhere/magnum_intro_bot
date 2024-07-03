@@ -1,5 +1,5 @@
 # Magnum Intro Bot
-Your task is to create a simple Telegram Bot, that would send user the summary of [Wikipedia](https://en.wikipedia.org/) page.
+Your task is to create a simple Telegram Bot, that sends user a summary of [Wikipedia](https://en.wikipedia.org/) page.
 
 # Example
 __Input-message:__
